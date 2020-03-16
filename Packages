@@ -1,0 +1,51 @@
+Package: GameControlSystem
+Version: 0.0.1-980+debug
+Architecture: iphoneos-arm
+Maintainer: GameControlSystem
+Installed-Size: 11096
+Depends: mobilesubstrate
+Filename: ./debs/GameControlSystem_0.0.1-980+debug_iphoneos-arm.deb
+Size: 3147636
+MD5sum: c52b7104b86c3d2d93a4fd1c9ca12921
+SHA1: ed3526d8e32cb81d95a881a39af361495d18f65c
+SHA256: 10ed0e9c80da7d9ed1146bc08884f5b610c86b9d259a43c8051706d5295bd6fe
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: GameControlSystem
+Depiction: https://jhtshr.github.io/repo/depictions/?p=GameControlSystem
+Name: GameControlSystem
+
+Package: loadbuffer
+Version: 0.0.1-312+debug
+Architecture: iphoneos-arm
+Maintainer: loadbuffer
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: ./debs/loadbuffer_0.0.1-312+debug_iphoneos-arm.deb
+Size: 11326
+MD5sum: 422e4425abe0301f25919b462a4ca650
+SHA1: 60525ca0ac3fd8569c27d19db05c75666550a54e
+SHA256: a5d6bc24ac3a407cb60a8d3a4662d6f15e9736ae6a9f88bd544614d0febf37c2
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: loadbuffer
+Depiction: https://jhtshr.github.io/gcs/depictions/?p=loadbuffer
+Name: loadbuffer
+
+Package: loadpy
+Version: 0.0.1-26+debug
+Architecture: iphoneos-arm
+Maintainer: loadpy
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/loadpy_0.0.1-26+debug_iphoneos-arm.deb
+Size: 3904
+MD5sum: 3704d894a6b3d72d488a7f010377380f
+SHA1: 442646d59d46243370ad3c2302cb72f37e3f6691
+SHA256: f150b78d67acc6b6c00e61964eaf4e5948d6716dbb9821e4e8b8be37e7615df5
+Section: Tweaks
+Description: loadpy
+Author: loadpy
+Depiction: https://jhtshr.github.io/gcs/depictions/?p=loadpy
+Name: loadpy
+
