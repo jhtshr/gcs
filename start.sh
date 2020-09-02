@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "======================start make======================="
-rm Packages.bz2
+rm *.bz2
 dpkg-scanpackages -m ./debs > Packages
 bzip2 Packages
 
