@@ -1,0 +1,52 @@
+Package: GameControlSystem
+Version: 0.0.1-980+debug
+Architecture: iphoneos-arm
+Maintainer: GameControlSystem
+Installed-Size: 11096
+Depends: mobilesubstrate
+Filename: ./debs/GameControlSystem_0.0.1-980+debug_iphoneos-arm.deb
+Size: 3147636
+MD5sum: c52b7104b86c3d2d93a4fd1c9ca12921
+SHA1: ed3526d8e32cb81d95a881a39af361495d18f65c
+SHA256: 10ed0e9c80da7d9ed1146bc08884f5b610c86b9d259a43c8051706d5295bd6fe
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: GameControlSystem
+Depiction: https://jhtshr.github.io/repo/depictions/?p=GameControlSystem
+Name: GameControlSystem
+
+Package: eastmoney
+Version: 1.2-2+debug
+Architecture: iphoneos-arm
+Maintainer: eastmoney
+Installed-Size: 104
+Depends: firmware (>= 4.0), mobilesubstrate
+Filename: ./debs/eastmoney_1.2-2+debug_iphoneos-arm.deb
+Size: 14554
+MD5sum: d297ab181799d851ea5d2ff39a82dbfa
+SHA1: 16c24835749b0fc54b054be90fafaad370f9b0d6
+SHA256: 4208e5e834fe7a42381e43b4d626aa6246f636a6dd5d98668bc15c369da4ed91
+Section: Tweaks
+Description: eastmoney
+Tag: purpose::extension
+Author: eastmoney
+Dev: eastmoney
+Name: eastmoney
+
+Package: loadpy
+Version: 0.0.1-26+debug
+Architecture: iphoneos-arm
+Maintainer: loadpy
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/loadpy_0.0.1-26+debug_iphoneos-arm.deb
+Size: 3904
+MD5sum: 3704d894a6b3d72d488a7f010377380f
+SHA1: 442646d59d46243370ad3c2302cb72f37e3f6691
+SHA256: f150b78d67acc6b6c00e61964eaf4e5948d6716dbb9821e4e8b8be37e7615df5
+Section: Tweaks
+Description: loadpy
+Author: loadpy
+Depiction: https://jhtshr.github.io/gcs/depictions/?p=loadpy
+Name: loadpy
+
